@@ -1,1 +1,1 @@
-web: gunicorn cv_web_app:apps
+web: gunicorn opencv-course-flask-app-1337:app
